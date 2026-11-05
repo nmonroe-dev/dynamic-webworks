@@ -1,0 +1,30 @@
+DYNAMIC WEBWORKS — 15 DISTINCT WEBSITE SHOWCASES
+
+QUICKEST WAY TO PREVIEW:
+1. Unzip the folder.
+2. Open index.html in Chrome or Edge.
+3. Click "Our work".
+4. Click any portfolio card to explore a UNIQUE, interactive website example.
+5. Click "SEE EVERY FEATURE & BUSINESS BENEFIT" at the top of the demo to review the detailed feature walkthrough.
+6. Use "Back to all projects" on the walkthrough page to explore another example.
+
+TO PUBLISH:
+Upload the CONTENTS of this folder (including index.html, style.css, app.js, showcase/, portfolio/, and assets/) to your static hosting provider. Keep the folder structure the same.
+
+WHAT'S INCLUDED:
+- Dynamic WebWorks homepage and main business pages.
+- 15 DIFFERENT self-contained example website pages in showcase/<name>/index.html.
+- 15 detailed case-study pages at portfolio/<name>/index.html.
+- 120 real screenshots taken from the demos (4 per demo's original captures and 4 additional scroll captures).
+- Plain HTML, CSS, and JavaScript only; no build or database required.
+- Illustration/demo data only — no real appointments, payments, medical information, or purchases are submitted by the demo interactions.
+
+BEFORE PUBLISHING COMMERCIALLY:
+- Test on your own computer and mobile phone.
+- Confirm company details, pricing, and legal policies.
+- Contact form currently prepares an email; it does not send automatically without an email app or third-party form service.
+- Ensure domain, forms, hosting, and third-party providers are configured for live clients.
+- Portfolio names and data are fictional demonstrations, not actual client testimonials.
+
+IF WINDOWS DOESN'T OPEN NESTED PAGES CORRECTLY:
+Open this folder in VS Code and use the Live Server extension's "Open with Live Server" on index.html. The site does not require Node.js or npm.

@@ -1,0 +1,26 @@
+DYNAMIC WEBWORKS — 15 SHOWCASE WALKTHROUGH FIXES
+
+WHAT WAS CORRECTED
+- All 15 project walkthroughs retained, including their independent demo websites.
+- All 105 main feature screenshots regenerated or replaced to correspond to the feature headline.
+- Each project's desktop opening screenshot now shows its actual website opening, not an unrelated section.
+- Each feature screenshot from 02-07 shows its matching feature scene in the respective concept website.
+- More than 20 mismatched or overly generic feature scenes were revised for the industry (aftercare, sizing, equipment guidance, neighborhood guides, booking flows, resource libraries, etc.).
+- Feature images now display in full within the walkthrough instead of being cropped to a fixed ratio.
+- Screenshot navigation links open the exact corresponding feature scene, not just the website homepage.
+- The 15 mobile homepage previews were recaptured to keep the headline legible.
+- Button labels sit below feature screenshots rather than covering their content.
+- Confirmed 15 projects, 105 aligned feature images and 1,002 internal HTML links with no broken destinations.
+- JavaScript syntax checks passed.
+
+HOW TO OPEN
+1. Extract the ZIP to a folder; keep the folder structure.
+2. Open Dynamic_WebWorks/index.html in Chrome or Edge.
+3. Go to Our Work > choose any portfolio example > explore its feature walkthrough.
+4. Click the screenshot caption to open that specific illustrated feature in its standalone demo.
+5. Optional: Use VS Code Live Server for a hosted local preview.
+
+IMPORTANT
+The showcased companies and their interfaces are illustrative concepts. Feature demonstrations do not process real bookings, logins, orders, or payments. Gallery imagery is illustrative and will need actual client content for client deployments.
+
+The contact form currently prepares an email in the visitor's email client for dynamicwebworksleads@gmail.com; it does not silently submit to an inbox. For fully automatic inquiries, connect a form service before advertising the website as having working online form submissions.

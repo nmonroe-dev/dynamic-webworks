@@ -1,0 +1,21 @@
+DYNAMIC WEBWORKS — FINAL PORTFOLIO PRESENTATION UPDATE
+
+TO OPEN:
+1. Extract this ZIP.
+2. Open the Dynamic_WebWorks folder.
+3. Double-click index.html.
+4. Click Our Work to explore 15 concept websites.
+
+WHAT CHANGED:
+- Kept the existing website, navigation, pricing, services and 15 business-specific homepage designs.
+- Reworked the six lower showcase feature sections in all 15 interactive concept websites.
+  Each industry now has distinct typography, layout and visual styling instead of shared neutral feature cards.
+- Rebuilt 15 wide portfolio images combining actual mobile concept views with industry photography; no more clipped mobile headings in landscape cards.
+- Replaced 90 walkthrough feature pictures with industry-styled, feature-relevant illustrations, each identified as an illustration, not a live screenshot.
+- Corrected the Terra & Table reservation example to request party size and dining time rather than food items.
+- Kept project feature explanations and links to the actual demos.
+
+IMPORTANT:
+The 15 showcases are design concepts, not live client websites. Booking, forms, payments, search and account demos are illustrative.
+The public inquiry experience still relies on an email handoff, not automatic form submission.
+No Node/npm setup is required for the static pages.
